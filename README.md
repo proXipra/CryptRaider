@@ -26,10 +26,13 @@
 
 <br>
 <br>
-<br>
  
 ![simsizvideoClipchampileyapld9-ezgif com-optimize](https://github.com/user-attachments/assets/df9d0c3e-7f78-42d2-98a0-ed9d686b7420)
 * *In Level Puzzles*
 
+## Additional information
 
+ I developed this project in alignment with the course I was following, using its content as the main foundation. <br>
+ While the course provided the structure and guidelines, I implemented every detail independently, <br>
+ applying the concepts I learned to bring the project to completion.
 
