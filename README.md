@@ -21,9 +21,14 @@
 
 ## In Game GIFs 
 
-![simsizvideoClipchampileyapld8-ezgif com-optimize](https://github.com/user-attachments/assets/a2ede093-d69c-4600-83ac-c31b5dc05881)
+![simsizvideoClipchampileyapld8-ezgif com-optimize](https://github.com/user-attachments/assets/a8dd81ee-36df-4cec-a16d-045dc3e70293)
+* *Grab and Release Mechanic*
 
 
+
+
+![simsizvideoClipchampileyapld9-ezgif com-optimize](https://github.com/user-attachments/assets/df9d0c3e-7f78-42d2-98a0-ed9d686b7420)
+* *In Level Puzzles*
 
 
 
