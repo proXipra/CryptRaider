@@ -1,5 +1,5 @@
 # CryptRaider
- A puzzle game demo made on Unreal Engine 5.3
+ A grab and release puzzle game demo made on Unreal Engine 5.3
 
 ## Key Features of This Game Project
 
@@ -18,3 +18,4 @@
  * Use of While, For Loops, and Arrays for Gameplay Logic
  
  * Integration of C++ Functions within Blueprints
+
