@@ -3,18 +3,18 @@
 
 ## Key Features of This Game Project
 
- *Utilization of Pointers and References
+ * Utilization of Pointers and References
  
- *Implementation of Actor and Scene Components
+ * Implementation of Actor and Scene Components
  
- *Efficient Management of Header Files
+ * Efficient Management of Header Files
  
- *Realistic Lighting with Lumen Technology
+ * Realistic Lighting with Lumen Technology
  
- *Modular Level Design for Enhanced Scalability
+ * Modular Level Design for Enhanced Scalability
  
- *Advanced Line Tracing and Collision Detection
+ * Advanced Line Tracing and Collision Detection
  
- *Use of While, For Loops, and Arrays for Gameplay Logic
+ * Use of While, For Loops, and Arrays for Gameplay Logic
  
- *Integration of C++ Functions within Blueprints
+ * Integration of C++ Functions within Blueprints
